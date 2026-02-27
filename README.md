@@ -316,23 +316,16 @@ We have provided the train log, test file and test result in the huggingface.
     └─scannet200-semseg-sp2t
 ```
 
-# TODO
-
-- [ ] Open the checkpoint and log in huggingface.
-- [ ] Update Readme.
-
 ## Cite
 
 If you find our work useful to your research, please cite our work :).
 
 ```
-@misc{wan2024sp2tsparseproxyattention,
-      title={SP$^2$T: Sparse Proxy Attention for Dual-stream Point Transformer}, 
-      author={Jiaxu Wan and Hong Zhang and Ziqi He and Qishu Wang and Ding Yuan and Yifan Yang},
-      year={2024},
-      eprint={2412.11540},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.11540}, 
+@inproceedings{wan2025sp2t,
+  title={SP2T: Sparse Proxy Attention for Dual-stream Point Transformer},
+  author={Wan, Jiaxu and Zhang, Hong and He, Ziqi and Deng, Yangyan and Wang, Qishu and Yuan, Ding and Yang, Yifan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={27885--27895},
+  year={2025}
 }
 ```
