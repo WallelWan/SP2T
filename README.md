@@ -107,7 +107,7 @@ The test mIOU of Scannet and Scannet 200 uses the TTA for validation. All test r
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">70.7</td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer/tree/main/submit/others/scannet-semseg-octformer-v1m1-0-base">Result</a></td>
+<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://huggingface.co/wanjiaxu/SP2T/tree/main/reproduction/scannet-semseg-octformer-v1m1-0-base">Result</a></td>
 </tr>
 <tr>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">PTv2</td>
@@ -147,7 +147,7 @@ The test mIOU of Scannet and Scannet 200 uses the TTA for validation. All test r
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">71.4</td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Result</a></td>
+<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://huggingface.co/wanjiaxu/SP2T/tree/main/reproduction/scannet-semseg-swin3d-v1m1-0-small">Result</a></td>
 </tr>
 <tr>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">PTv3</td>
@@ -157,7 +157,7 @@ The test mIOU of Scannet and Scannet 200 uses the TTA for validation. All test r
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">73.6</td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Result</a></td>
+<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://huggingface.co/wanjiaxu/SP2T/tree/main/reproduction/scannet-semseg-pt-v3m1-0-base">Result</a></td>
 </tr>
 <tr>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">PTv3 + PPT</td>
@@ -175,9 +175,9 @@ The test mIOU of Scannet and Scannet 200 uses the TTA for validation. All test r
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">✗</td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">78.7</td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">74.9</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Config</a></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Weight</a></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Result</a></td>
+<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/WallelWan/SP2T/blob/main/configs/scannet/semseg-sp2t-0-base.py">Config</a></td>
+<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://huggingface.co/wanjiaxu/SP2T/tree/main/SP2T/scannet-semseg-sppt">Weight</a></td>
+<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://huggingface.co/wanjiaxu/SP2T/tree/main/SP2T/scannet-semseg-sppt">Result</a></td>
 </tr>
 </table>
 </div>
@@ -234,7 +234,7 @@ The test mIOU of Scannet and Scannet 200 uses the TTA for validation. All test r
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">31.0</td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Result</a></td>
+<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://huggingface.co/wanjiaxu/SP2T/tree/main/reproduction/scannet200-semseg-octformer-v1m1-0-base">Result</a></td>
 </tr>
 <tr>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">Octformer (Offical)</td>
@@ -254,7 +254,7 @@ The test mIOU of Scannet and Scannet 200 uses the TTA for validation. All test r
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">34.0</td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Result</a></td>
+<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://huggingface.co/wanjiaxu/SP2T/tree/main/reproduction/scannet200-semseg-pt-v3m1-0-base">Result</a></td>
 </tr>
 <tr>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">PTv3 + PPT</td>
@@ -272,9 +272,9 @@ The test mIOU of Scannet and Scannet 200 uses the TTA for validation. All test r
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">✗</td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">37.0</td>
 <td style="text-align: center; border: 1px solid #ddd; padding: 8px;">35.2</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Config</a></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Weight</a></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Result</a></td>
+<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/WallelWan/SP2T/blob/main/configs/scannet200/semseg-sp2t-0-base.py">Config</a></td>
+<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://huggingface.co/wanjiaxu/SP2T/tree/main/SP2T/scannet200-semseg-sppt">Weight</a></td>
+<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="https://huggingface.co/wanjiaxu/SP2T/tree/main/SP2T/scannet200-semseg-sppt">Result</a></td>
 </tr>
 </table>
 </div>
@@ -301,121 +301,6 @@ sh scripts/test.sh -g 4 -d scannet -c semseg-sp2t-0-base -n semseg-sp2t-0-base
 sh scripts/test.sh -g 4 -d scannet200 -c semseg-sp2t-0-base -n semseg-sp2t-0-base
 ```
 
-### Outdoor semantic segmentation
-
-#### nuScenes
-
-<div style="width: 100%; overflow-x: auto;">
-<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
-<tr>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 16.67%;">Model</th>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 16.67%;">BenchMark</th>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 16.67%;">Val mIOU</th>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 16.67%;">Config</th>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 16.67%;">Weight</th>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 16.67%;">Log</th>
-</tr>
-<tr>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">MinkUnet</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">nuScenes</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">73.3</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-</tr>
-<tr>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">PTv2</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">nuScenes</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">80.2</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-</tr>
-<tr>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">PTv3</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">nuScenes</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">80.4</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-</tr>
-<tr>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">SP<sup>2</sup>T</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">nuScenes</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">81.2</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Config</a></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Weight</a></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Log</a></td>
-</tr>
-</table>
-</div>
-
-#### Waymo
-
-<div style="width: 100%; overflow-x: auto;">
-<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
-<tr>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 14.29%;">Model</th>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 14.29%;">BenchMark</th>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 14.29%;">Val mIOU</th>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 14.29%;">Val mAcc</th>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 14.29%;">Config</th>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 14.29%;">Weight</th>
-<th style="text-align: center; border: 1px solid #ddd; padding: 8px; width: 14.29%;">Log</th>
-</tr>
-<tr>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">MinkUnet</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">waymo</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">65.9</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">76.6</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-</tr>
-<tr>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">PTv2</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">waymo</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">70.6</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">80.2</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-</tr>
-<tr>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">PTv3</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">waymo</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">71.3</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">80.5</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"></td>
-</tr>
-<tr>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">SP<sup>2</sup>T</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">waymo</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">71.9</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;">82.5</td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Config</a></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Weight</a></td>
-<td style="text-align: center; border: 1px solid #ddd; padding: 8px;"><a href="">Log</a></td>
-</tr>
-</table>
-</div>
-
-P.S: if the checkpoint of Waymo violates any agreements, please contact us (via issue or email), and we will immediately remove the checkpoint. 
-
-#### Example
-
-Example running scripts are as follows:
-
-```
-# nuScenes
-sh scripts/train.sh -g 4 -d nuscenes -c semseg-sp2t-0-base -n semseg-sp2t-0-base
-
-# Waymo
-sh scripts/train.sh -g 4 -d waymo -c semseg-sp2t-0-base -n semseg-sp2t-0-base
-```
-
 ## Train log, Test file and Test Result
 
 We have provided the train log, test file and test result in the huggingface.
@@ -427,11 +312,7 @@ We have provided the train log, test file and test result in the huggingface.
 │  ├─scannet-semseg-swin3d-v1m1-0-small
 │  └─scannet200-semseg-pt-v3m1-0-base
 └─sp2t
-    ├─nuscenes-semseg-sp2t
-    ├─waymo-semseg-sp2t
-    ├─scannet-insseg-sp2t
     ├─scannet-semseg-sp2t
-    ├─scannet200-insseg-sp2t
     └─scannet200-semseg-sp2t
 ```
 
